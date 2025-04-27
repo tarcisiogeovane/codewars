@@ -1,2 +1,2 @@
 # codewars
- codewars python training exercises 
+ codewars python - training exercises 
